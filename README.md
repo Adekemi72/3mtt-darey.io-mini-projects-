@@ -2,7 +2,7 @@
 Here is where I am going to be saving my data analysis projects with darey.io in 3mtt
 
 ##Mini Project: Data Cleaning and Analysis Task
-### So, below is the instructions of the project. i will be sharing the before and after of the project.
+### So, below are the instructions of the project. i will be sharing the before and after of the project.
 Objective:
 Your task is to clean and analyze the given dataset by following the instructions below. This exercise will help you practice data cleaning techniques and perform basic exploratory data analysis.
 
